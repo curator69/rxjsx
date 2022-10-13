@@ -5,3 +5,4 @@ This file is a shoutout to all of the amazing people who support this project. F
 ## List of Supporters
 
 - [Mohammad-Ali A'râbi](https://github.com/aerabi)
+- [Rushikesh Khilari](https://github.com/curator69)
